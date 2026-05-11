@@ -12,6 +12,11 @@ WiFi Doctor is a comprehensive Python-based desktop application designed to diag
 -   **Driver Updates:** Checks for and installs Wi-Fi driver updates via Windows Update.
 -   **Live Ping:** Real-time latency tracking to identify intermittent drops.
 
+  
+![Alt text].(/wifi-image-1.png)
+
+![Alt text].(/wifi-image-2.png)
+
 ## 🛠️ Installation
 
 ### Prerequisites
