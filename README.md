@@ -13,9 +13,9 @@ WiFi Doctor is a comprehensive Python-based desktop application designed to diag
 -   **Live Ping:** Real-time latency tracking to identify intermittent drops.
 
   
-![Alt text].(/wifi-image-1.png)
+![Alt text].(https://raw.githubusercontent.com/dmcomp07/wifi_doctor/refs/heads/main/wifi-image-1.png)
 
-![Alt text].(/wifi-image-2.png)
+![Alt text].(https://raw.githubusercontent.com/dmcomp07/wifi_doctor/refs/heads/main/wifi-image-2.png)
 
 ## 🛠️ Installation
 
